@@ -1,6 +1,6 @@
 {
   "name": "iterative-gcd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compute the greatest common divisor using Iterative implementation.",
   "main": "index.js",
   "scripts": {
