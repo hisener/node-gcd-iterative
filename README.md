@@ -11,13 +11,13 @@
 ## Install
 
 ```bash
-npm install gcd-iterative
+npm install iterative-gcd
 ```
 
 ## Usage
 
 ```js
-var gcd = require('gcd-iterative')
+var gcd = require('iterative-gcd')
 
 gcd(8, 12) // 4
 gcd(48, 18) // 6
