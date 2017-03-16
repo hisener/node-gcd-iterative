@@ -1,0 +1,36 @@
+{
+  "name": "iterative-gcd",
+  "version": "1.0.0",
+  "description": "Compute the greatest common divisor using Iterative implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && npm run test-node",
+    "test-node": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hisener/node-iterative-gcd.git"
+  },
+  "keywords": [
+    "gcd",
+    "iterative",
+    "divisor",
+    "math",
+    "maths",
+    "mathematics"
+  ],
+  "author": {
+    "name": "Halil İbrahim Şener",
+    "email": "hisener@yahoo.com",
+    "url": "http://halilsener.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hisener/node-iterative-gcd/issues"
+  },
+  "homepage": "https://github.com/hisener/node-iterative-gcd#readme",
+  "devDependencies": {
+    "standard": "^9.0.1",
+    "tape": "^4.6.3"
+  }
+}
