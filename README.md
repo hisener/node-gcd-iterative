@@ -1,5 +1,7 @@
 # iterative-gcd [![Build Status][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hisener/node-iterative-gcd.svg)](https://greenkeeper.io/)
+
 #### Compute the greatest common divisor using Iterative implementation.
 
 [travis-image]: https://travis-ci.org/hisener/node-iterative-gcd.svg?branch=master
