@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/hisener/node-iterative-gcd#readme",
   "devDependencies": {
-    "standard": "^10.0.2",
+    "standard": "^11.0.1",
     "tape": "^4.6.3"
   }
 }
